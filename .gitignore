@@ -1,0 +1,8 @@
+__pycache__/
+*.wav
+*.mp4
+vo/
+tmp_*
+p[0-9].mp4
+list.txt
+sheet.png

@@ -1,0 +1,78 @@
+{
+ "events": [
+  {
+   "t": 0.1,
+   "name": "hook",
+   "dur": 2.137,
+   "chick": false
+  },
+  {
+   "t": 2.437,
+   "name": "q1",
+   "dur": 1.234,
+   "chick": false
+  },
+  {
+   "t": 6.821,
+   "name": "a1",
+   "dur": 1.505,
+   "chick": false
+  },
+  {
+   "t": 8.626,
+   "name": "give",
+   "dur": 1.627,
+   "chick": true
+  },
+  {
+   "t": 11.753,
+   "name": "q2",
+   "dur": 1.378,
+   "chick": false
+  },
+  {
+   "t": 16.281,
+   "name": "a2",
+   "dur": 2.052,
+   "chick": false
+  },
+  {
+   "t": 19.433,
+   "name": "q3",
+   "dur": 1.08,
+   "chick": false
+  },
+  {
+   "t": 23.663,
+   "name": "a3",
+   "dur": 0.909,
+   "chick": false
+  },
+  {
+   "t": 24.672,
+   "name": "whee",
+   "dur": 0.859,
+   "chick": true
+  },
+  {
+   "t": 25.932,
+   "name": "again",
+   "dur": 0.465,
+   "chick": true
+  }
+ ],
+ "marks": {
+  "slip": 0.7,
+  "c1": 3.771,
+  "r1": 6.771,
+  "give": 10.353,
+  "c2": 13.231,
+  "r2": 16.231,
+  "lift": 18.533,
+  "c3": 20.613,
+  "r3": 23.613,
+  "again": 25.932,
+  "loop": 26.597
+ },
+ "dur": 27.8
+}

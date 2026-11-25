@@ -1,0 +1,108 @@
+{
+ "events": [
+  {
+   "t": 0.15,
+   "name": "hook",
+   "dur": 2.35,
+   "chick": false
+  },
+  {
+   "t": 2.7,
+   "name": "q1",
+   "dur": 0.943,
+   "chick": false
+  },
+  {
+   "t": 6.793,
+   "name": "a1",
+   "dur": 2.159,
+   "chick": false
+  },
+  {
+   "t": 9.303,
+   "name": "q2",
+   "dur": 1.196,
+   "chick": false
+  },
+  {
+   "t": 13.648,
+   "name": "a2",
+   "dur": 1.053,
+   "chick": false
+  },
+  {
+   "t": 15.052,
+   "name": "q3",
+   "dur": 1.209,
+   "chick": false
+  },
+  {
+   "t": 19.411,
+   "name": "a3",
+   "dur": 1.31,
+   "chick": false
+  },
+  {
+   "t": 21.071,
+   "name": "brr",
+   "dur": 1.706,
+   "chick": false
+  },
+  {
+   "t": 22.926,
+   "name": "give",
+   "dur": 1.008,
+   "chick": true
+  },
+  {
+   "t": 24.934,
+   "name": "thanks",
+   "dur": 1.053,
+   "chick": false
+  },
+  {
+   "t": 26.088,
+   "name": "ah",
+   "dur": 1.044,
+   "chick": false
+  },
+  {
+   "t": 27.132,
+   "name": "achoo",
+   "dur": 0.664,
+   "chick": false
+  },
+  {
+   "t": 28.397,
+   "name": "oops",
+   "dur": 1.544,
+   "chick": false
+  },
+  {
+   "t": 30.141,
+   "name": "laugh",
+   "dur": 1.226,
+   "chick": true
+  },
+  {
+   "t": 31.667,
+   "name": "again",
+   "dur": 0.465,
+   "chick": true
+  }
+ ],
+ "marks": {
+  "c0": 3.743,
+  "r0": 6.743,
+  "c1": 10.598,
+  "r1": 13.598,
+  "c2": 16.361,
+  "r2": 19.361,
+  "cold": 21.071,
+  "scarf": 24.034,
+  "achoo": 27.132,
+  "again": 31.667,
+  "loop": 32.332
+ },
+ "dur": 33.63
+}

@@ -1,0 +1,105 @@
+{
+ "events": [
+  {
+   "t": 0.1,
+   "name": "q0",
+   "dur": 1.11,
+   "chick": false
+  },
+  {
+   "t": 1.36,
+   "name": "read0",
+   "dur": 2.119,
+   "chick": false
+  },
+  {
+   "t": 3.579,
+   "name": "sayit",
+   "dur": 0.963,
+   "chick": false
+  },
+  {
+   "t": 7.692,
+   "name": "a0",
+   "dur": 1.918,
+   "chick": false
+  },
+  {
+   "t": 12.66,
+   "name": "read1",
+   "dur": 1.457,
+   "chick": false
+  },
+  {
+   "t": 14.217,
+   "name": "q1",
+   "dur": 1.11,
+   "chick": false
+  },
+  {
+   "t": 18.477,
+   "name": "a1",
+   "dur": 1.522,
+   "chick": false
+  },
+  {
+   "t": 23.049,
+   "name": "read2",
+   "dur": 2.1,
+   "chick": false
+  },
+  {
+   "t": 25.249,
+   "name": "q2",
+   "dur": 1.739,
+   "chick": false
+  },
+  {
+   "t": 30.788,
+   "name": "me",
+   "dur": 0.754,
+   "chick": true
+  },
+  {
+   "t": 31.742,
+   "name": "a2",
+   "dur": 2.096,
+   "chick": false
+  },
+  {
+   "t": 34.338,
+   "name": "choo",
+   "dur": 0.557,
+   "chick": true
+  },
+  {
+   "t": 35.495,
+   "name": "again",
+   "dur": 0.465,
+   "chick": true
+  }
+ ],
+ "marks": {
+  "enter0": -5,
+  "read0": 1.36,
+  "readend0": 3.579,
+  "c0": 4.642,
+  "r0": 7.642,
+  "leave0": 9.86,
+  "enter1": 11.06,
+  "read1": 12.66,
+  "readend1": 14.217,
+  "c1": 15.427,
+  "r1": 18.427,
+  "leave1": 20.249,
+  "enter2": 21.449,
+  "read2": 23.049,
+  "readend2": 25.249,
+  "c2": 27.088,
+  "r2": 30.088,
+  "leave2": 33.938,
+  "again": 35.495,
+  "loop": 36.06
+ },
+ "dur": 37.66
+}

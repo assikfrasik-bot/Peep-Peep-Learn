@@ -1,0 +1,204 @@
+{
+ "rounds": [
+  {
+   "grid": [
+    2,
+    2
+   ],
+   "items": [
+    "apple",
+    "fish",
+    "star",
+    "frog"
+   ],
+   "kind": "where",
+   "target": 1,
+   "mem": 3.5,
+   "pre": "Remember the pictures!",
+   "q": "Where's the fish?",
+   "a": "Top right! Here's the fish!",
+   "label": "Top right!",
+   "i": 0,
+   "start": 2.963,
+   "mem0": 3.613,
+   "mem1": 7.113,
+   "timer": 8.767,
+   "reveal": 12.767,
+   "all_up": 13.867,
+   "end": 15.367
+  },
+  {
+   "grid": [
+    3,
+    2
+   ],
+   "items": [
+    "banana",
+    "heart",
+    "whale",
+    "crab",
+    "grapes",
+    "butterfly"
+   ],
+   "kind": "where",
+   "target": 4,
+   "mem": 4.5,
+   "pre": "Level two! Six cards!",
+   "q": "Where are the grapes?",
+   "a": "Bottom middle! There they are!",
+   "label": "Bottom middle!",
+   "i": 1,
+   "start": 15.367,
+   "mem0": 16.017,
+   "mem1": 20.517,
+   "timer": 22.252,
+   "reveal": 26.252,
+   "all_up": 27.352,
+   "end": 28.852
+  },
+  {
+   "grid": [
+    3,
+    2
+   ],
+   "items": [
+    "frog",
+    "star",
+    "fish",
+    "carrot",
+    "heart",
+    "apple"
+   ],
+   "kind": "under",
+   "target": 3,
+   "mem": 4.5,
+   "pre": "Level three! Something new!",
+   "q": "What's under this card?",
+   "a": "The carrot! Did you remember?",
+   "label": "The carrot!",
+   "i": 2,
+   "start": 28.852,
+   "mem0": 29.502,
+   "mem1": 34.002,
+   "timer": 35.877,
+   "reveal": 39.877,
+   "all_up": 40.977,
+   "end": 42.477
+  },
+  {
+   "grid": [
+    3,
+    3
+   ],
+   "items": [
+    "star",
+    "whale",
+    "apple",
+    "crab",
+    "heart",
+    "banana",
+    "butterfly",
+    "frog",
+    "grapes"
+   ],
+   "kind": "where",
+   "target": 6,
+   "mem": 6.0,
+   "pre": "Expert level! Nine cards!",
+   "q": "Where's the butterfly?",
+   "a": "Bottom left! You're a memory master!",
+   "label": "Bottom left!",
+   "i": 3,
+   "start": 42.477,
+   "mem0": 43.127,
+   "mem1": 49.127,
+   "timer": 50.995,
+   "reveal": 54.995,
+   "all_up": 56.095,
+   "end": 57.595
+  }
+ ],
+ "outro": {
+  "start": 57.595,
+  "bye": 60.616
+ },
+ "events": [
+  {
+   "t": 0.4,
+   "name": "hook",
+   "dur": 2.413
+  },
+  {
+   "t": 3.113,
+   "name": "pre0",
+   "dur": 1.25
+  },
+  {
+   "t": 7.613,
+   "name": "q0",
+   "dur": 1.004
+  },
+  {
+   "t": 12.867,
+   "name": "a0",
+   "dur": 1.567
+  },
+  {
+   "t": 15.517,
+   "name": "pre1",
+   "dur": 1.756
+  },
+  {
+   "t": 21.017,
+   "name": "q1",
+   "dur": 1.085
+  },
+  {
+   "t": 26.352,
+   "name": "a1",
+   "dur": 1.613
+  },
+  {
+   "t": 29.002,
+   "name": "pre2",
+   "dur": 1.724
+  },
+  {
+   "t": 34.502,
+   "name": "q2",
+   "dur": 1.225
+  },
+  {
+   "t": 39.977,
+   "name": "a2",
+   "dur": 1.542
+  },
+  {
+   "t": 42.627,
+   "name": "pre3",
+   "dur": 1.85
+  },
+  {
+   "t": 49.627,
+   "name": "q3",
+   "dur": 1.218
+  },
+  {
+   "t": 55.095,
+   "name": "a3",
+   "dur": 2.082
+  },
+  {
+   "t": 58.095,
+   "name": "wow",
+   "dur": 2.321
+  },
+  {
+   "t": 60.616,
+   "name": "bye",
+   "dur": 1.204
+  }
+ ],
+ "dur": 62.92,
+ "timer": 4.0
+}

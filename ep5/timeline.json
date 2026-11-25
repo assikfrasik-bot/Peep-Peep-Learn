@@ -1,0 +1,88 @@
+{
+ "events": [
+  {
+   "t": 0.1,
+   "name": "hook",
+   "dur": 2.659,
+   "chick": false
+  },
+  {
+   "t": 3.059,
+   "name": "m0",
+   "dur": 1.325,
+   "chick": false
+  },
+  {
+   "t": 6.309,
+   "name": "fz0",
+   "dur": 0.675,
+   "chick": false
+  },
+  {
+   "t": 8.584,
+   "name": "g0",
+   "dur": 1.026,
+   "chick": false
+  },
+  {
+   "t": 9.91,
+   "name": "m1",
+   "dur": 1.148,
+   "chick": false
+  },
+  {
+   "t": 13.86,
+   "name": "fz1",
+   "dur": 0.675,
+   "chick": false
+  },
+  {
+   "t": 16.135,
+   "name": "g1",
+   "dur": 1.343,
+   "chick": false
+  },
+  {
+   "t": 17.777,
+   "name": "m2",
+   "dur": 1.401,
+   "chick": false
+  },
+  {
+   "t": 21.727,
+   "name": "fz2",
+   "dur": 0.675,
+   "chick": false
+  },
+  {
+   "t": 23.602,
+   "name": "oops",
+   "dur": 1.62,
+   "chick": false
+  },
+  {
+   "t": 25.372,
+   "name": "laugh",
+   "dur": 0.616,
+   "chick": true
+  },
+  {
+   "t": 26.238,
+   "name": "again",
+   "dur": 0.465,
+   "chick": true
+  }
+ ],
+ "marks": {
+  "d0": 0.0,
+  "f0": 6.259,
+  "d1": 9.81,
+  "f1": 13.81,
+  "d2": 17.677,
+  "f2": 21.677,
+  "fall": 23.402,
+  "again": 26.238,
+  "d3": 26.853
+ },
+ "dur": 28.7
+}

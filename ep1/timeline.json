@@ -1,0 +1,71 @@
+{
+ "events": [
+  {
+   "t": 0.15,
+   "name": "hook",
+   "dur": 1.057,
+   "chick": false
+  },
+  {
+   "t": 1.307,
+   "name": "say",
+   "dur": 1.066,
+   "chick": false
+  },
+  {
+   "t": 6.073,
+   "name": "a1",
+   "dur": 1.867,
+   "chick": false
+  },
+  {
+   "t": 8.74,
+   "name": "q2",
+   "dur": 2.001,
+   "chick": false
+  },
+  {
+   "t": 14.442,
+   "name": "a2",
+   "dur": 1.581,
+   "chick": false
+  },
+  {
+   "t": 17.023,
+   "name": "q3",
+   "dur": 1.444,
+   "chick": false
+  },
+  {
+   "t": 22.267,
+   "name": "a3",
+   "dur": 2.522,
+   "chick": false
+  },
+  {
+   "t": 24.939,
+   "name": "laugh",
+   "dur": 0.967,
+   "chick": true
+  },
+  {
+   "t": 26.206,
+   "name": "again",
+   "dur": 0.465,
+   "chick": true
+  }
+ ],
+ "marks": {
+  "c1": 2.473,
+  "r1": 5.973,
+  "s2": 8.34,
+  "c2": 10.842,
+  "r2": 14.342,
+  "s3": 16.423,
+  "c3": 18.567,
+  "r3": 22.067,
+  "again": 26.206,
+  "loop": 26.871
+ },
+ "dur": 28.27
+}

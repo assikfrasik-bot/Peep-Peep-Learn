@@ -1,0 +1,105 @@
+{
+ "events": [
+  {
+   "t": 0.15,
+   "name": "hook",
+   "dur": 2.445,
+   "chick": false
+  },
+  {
+   "t": 3.795,
+   "name": "n0",
+   "dur": 0.598,
+   "chick": false
+  },
+  {
+   "t": 5.143,
+   "name": "n1",
+   "dur": 0.594,
+   "chick": false
+  },
+  {
+   "t": 6.487,
+   "name": "n2",
+   "dur": 0.663,
+   "chick": false
+  },
+  {
+   "t": 7.901,
+   "name": "n3",
+   "dur": 0.643,
+   "chick": false
+  },
+  {
+   "t": 9.293,
+   "name": "n4",
+   "dur": 0.695,
+   "chick": false
+  },
+  {
+   "t": 10.438,
+   "name": "q1",
+   "dur": 1.081,
+   "chick": false
+  },
+  {
+   "t": 14.669,
+   "name": "a1",
+   "dur": 1.73,
+   "chick": false
+  },
+  {
+   "t": 18.299,
+   "name": "yum",
+   "dur": 0.549,
+   "chick": true
+  },
+  {
+   "t": 19.048,
+   "name": "q2",
+   "dur": 1.651,
+   "chick": false
+  },
+  {
+   "t": 23.848,
+   "name": "a2",
+   "dur": 2.06,
+   "chick": false
+  },
+  {
+   "t": 26.708,
+   "name": "hey",
+   "dur": 1.117,
+   "chick": false
+  },
+  {
+   "t": 27.975,
+   "name": "oops",
+   "dur": 0.954,
+   "chick": true
+  },
+  {
+   "t": 29.229,
+   "name": "again",
+   "dur": 0.58,
+   "chick": true
+  }
+ ],
+ "marks": {
+  "bump": 2.795,
+  "land0": 3.745,
+  "land1": 5.093,
+  "land2": 6.437,
+  "land3": 7.851,
+  "land4": 9.243,
+  "c1": 11.619,
+  "r1": 14.619,
+  "eat": 16.699,
+  "c2": 20.798,
+  "r2": 23.798,
+  "worm": 26.208,
+  "again": 29.229,
+  "loop": 30.009
+ },
+ "dur": 31.31
+}

@@ -1,0 +1,100 @@
+{
+ "events": [
+  {
+   "t": 0.1,
+   "name": "hook",
+   "dur": 1.82,
+   "chick": false
+  },
+  {
+   "t": 2.07,
+   "name": "q0",
+   "dur": 1.609,
+   "chick": false
+  },
+  {
+   "t": 6.828,
+   "name": "a0",
+   "dur": 1.745,
+   "chick": false
+  },
+  {
+   "t": 9.273,
+   "name": "q1",
+   "dur": 1.253,
+   "chick": false
+  },
+  {
+   "t": 13.677,
+   "name": "a1",
+   "dur": 1.794,
+   "chick": false
+  },
+  {
+   "t": 16.17,
+   "name": "q2",
+   "dur": 1.096,
+   "chick": false
+  },
+  {
+   "t": 20.416,
+   "name": "a2",
+   "dur": 1.6,
+   "chick": false
+  },
+  {
+   "t": 22.716,
+   "name": "q3",
+   "dur": 1.372,
+   "chick": false
+  },
+  {
+   "t": 27.238,
+   "name": "a3",
+   "dur": 1.338,
+   "chick": false
+  },
+  {
+   "t": 30.576,
+   "name": "hi",
+   "dur": 0.488,
+   "chick": true
+  },
+  {
+   "t": 31.165,
+   "name": "tw",
+   "dur": 2.313,
+   "chick": false
+  },
+  {
+   "t": 33.577,
+   "name": "laugh",
+   "dur": 0.503,
+   "chick": true
+  },
+  {
+   "t": 34.28,
+   "name": "again",
+   "dur": 0.465,
+   "chick": true
+  }
+ ],
+ "marks": {
+  "s0": 0.0,
+  "c0": 3.778,
+  "r0": 6.778,
+  "s1": 8.823,
+  "c1": 10.627,
+  "r1": 13.627,
+  "s2": 15.72,
+  "c2": 17.366,
+  "r2": 20.366,
+  "s3": 22.266,
+  "c3": 24.188,
+  "r3": 27.188,
+  "hatch": 28.976,
+  "again": 34.28,
+  "loop": 34.945
+ },
+ "dur": 36.15
+}
